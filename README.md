@@ -1,12 +1,16 @@
-MVC Challenge: Tech Blog
+
+
+# MVC Challenge: Tech Blog
 Overview
 This blog site is built using the Model-View-Controller (MVC) architectural pattern, resembling a CMS-style interface.
 
 Table of Contents
 Installation
 Usage
+Demo
+Questions
 Installation
-Clone repo:
+Clone the repository:
 
 bash
 Copy code
@@ -35,4 +39,4 @@ DB_USER=<your MySQL username>
 DB_PW=<your MySQL password>
 To seed the database with mock data, run the command npm run seed in the terminal from the root directory.
 
-Finally, initiate the server by typing npm start into your terminal. Navigate to http://localhost:3301/ in your browser to access the homepage.
+Finally, initiate the server by typing npm start into your terminal. Navigate to http://localhost:3001/ in your browser to access the homepage.
